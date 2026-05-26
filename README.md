@@ -8,7 +8,7 @@
 
 I'm a backend-focused engineer passionate about crafting **efficient, scalable, and centralized systems**. I specialize in building **robust database structures, seamless application logic**, and **administrative platforms** designed to streamline complex workflows. 
 
-I deliver structured backend solutions, focusing on clean data flow and reliable deployments across platforms like **Vercel and InfinityTree**. My goal is to optimize performance, ensure secure data management, and build practical tools—from queuing architectures to comprehensive ticketing and archiving platforms—that solve real-world problems.
+I deliver structured backend solutions, focusing on clean data flow and reliable deployments across platforms like Vercel and InfinityTree. My goal is to optimize performance, ensure secure data management, and build practical, scalable tools that solve real-world problems.
 
 ---
 
