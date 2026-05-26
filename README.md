@@ -33,11 +33,11 @@ I deliver structured backend solutions, focusing on clean data flow and reliable
 
 ### 🧠 What I Care About
 
-* **Database Design:** Secure, real-time schemas with Role-Based Access Control (RBAC).
-* **System Centralization:** Building unified platforms for administrative efficiency, such as the **Document Monitoring and Archiving System (DMAS)**, a centralized platform strictly for use by office assistants.
-* **Workflow Optimization:** Structuring reliable backend logic for high-traffic environments, including **Cashier Queueing Systems** and functional **Ticketing Systems**.
-* **Automated Compliance:** Integrating APIs to power background monitoring and trigger automated system reminders.
+* **Database Design:** Clear, scalable, and secure schemas tailored for specific application needs.
+* **System Centralization:** Building unified, strictly organized platforms for administrative efficiency (e.g., dedicated document monitoring systems for office assistants).
 * **Localization & Accessibility:** Structuring comprehensive data sets for multi-dialect translation tools (Central Bikol, West Miraya, East Miraya, Libon Bikol).
+* **Operational Reliability:** Creating resilient systems that handle complex workflows, from queueing systems to archiving platforms.
+* **Practical Development:** Bridging the gap between robust backend logic and intuitive UI/UX design.
 
 ---
 
