@@ -12,16 +12,6 @@ I deliver structured backend solutions, focusing on clean data flow and reliable
 
 ---
 
-📍 *Legazpi City, Bicol, Philippines (GMT+8)*
-🌱 *Currently exploring: Mobile App Development.*
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VincentNaje&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentNaje&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-</div>
-
 ### 🛠️ Tech Stack & Tools
 
 **💻 Languages & Frontend**
