@@ -1,6 +1,6 @@
 # Hi, I'm Vince 👋
 
-### Backend Developer • Full-Stack Engineer • Database Architect
+### Backend Developer • Full-Stack Engineer • Mobile Application Developer
 
 ---
 
